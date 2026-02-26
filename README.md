@@ -3,17 +3,17 @@ An interactive customer analytics dashboard built in Excel analyzing churn risk,
 
 
 ## Table of Contents
-- [Project Overview](project-overview)
-- [Problem Statement](problem-statement)
-- [Data Source](data-source)
-- [Data Cleaning & Preparation](data-cleaning--preparation)
-- [Tools Use](tools-use)
-- [Dashboard Features](dashboard-features)
-- [Insights At A Glance](insights-at-a-glance)
-- [What I Recommend](what-i-recommend)
-- [Dashboard Preview](dashboard-preview)
-- [Conclusion](conclusion)
-- [How to Use](how-to-use)
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Data Source](#-data-source)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Tools Use](#tools-use)
+- [Dashboard Features](#dashboard-features)
+- [Insights At A Glance](#-insights-at-a-glance)
+- [What I Recommend](#-what-i-recommend)
+- [Dashboard Preview](#dashboard-preview)
+- [Conclusion](#-conclusion)
+- [How to Use](#how-to-use)
 
 
 
@@ -22,7 +22,7 @@ This project presents a comprehensive **Customer Analytics Dashboard** built in 
 
 
 
-## ❗️ Problem Statement
+## Problem Statement
 
 Over 60% of customers are either at medium or high churn risk,
 yet the business has no clear visibility into who is leaving, why they are leaving,
