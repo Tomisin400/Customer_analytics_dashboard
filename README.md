@@ -1,4 +1,4 @@
-# 📊 Who's Leaving,Why,and How to Keep Them: Customer Retention & Analytics Dashboard
+#  📊 Customer Retention & Analytics Dashboard
 An interactive customer analytics dashboard built in Excel analyzing churn risk, revenue, loyalty, and email engagement across 10 global markets - uncovering who is leaving, why, and what to do about it.
 
 
@@ -140,10 +140,10 @@ A **helper validation column** named *"Column Issue Flagged"* was created to ide
 | | |
 |---|---|
 | 💸 | Your biggest spenders are NOT your most frequent buyers |
-| 📧 | Email engagement drives purchases — but it won't save a disloyal customer |
+| 📧 | Email engagement drives purchases but it won't save a disloyal customer |
 | ⚠️ | 1 in 2 customers is one bad experience away from leaving |
-| 🌍 | Churn has no borders — every market is equally at risk |
-| 🛒 | Electronics dominates — but it's also where fraud hides |
+| 🌍 | Churn has no borders, every market is equally at risk |
+| 🛒 | Electronics dominates but it's also where fraud hides |
 
 > 📂 Full insights available in the Excel dashboard
 
@@ -153,9 +153,9 @@ A **helper validation column** named *"Column Issue Flagged"* was created to ide
 
 | Priority | Action |
 |---|---|
-| 🔴 Urgent | Act on the 10.4% high-risk customers — they're leaving soon |
+| 🔴 Urgent | Act on the 10.4% high-risk customers,they're leaving soon |
 | 🟠 Important | Convert the 53.5% medium-risk customers before they slip away |
-| 🟡 Strategic | Stop relying on loyalty scores alone — behaviour tells the real story |
+| 🟡 Strategic | Stop relying on loyalty scores alone, behaviour tells the real story |
 | 🟢 Growth | Win younger customers (18-25) with social media and discounts |
 
 > 📂 Full recommendations available in the Excel dashboard
